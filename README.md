@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reiv3n2002 or you can call me Oskar
-- 👀 I’m interested in coding in HTML, CSS and PHP
-- 🌱 I’m currently learning JS, VueJS, PHP and C#
+- 👀 I’m interested in coding in HTML, CSS and JS.
+- 🌱 I’m currently learning TS, PHP and C#
 - 📫 How to reach me Discord: oskar2002
 
 <!---
